@@ -1,0 +1,11 @@
+Link of the statechart (from Stately):
+https://stately.ai/registry/editor/1b97b65e-bdc7-49dc-ac91-fb8a0751e572?machineId=456dabb9-3111-4174-aeba-f48255c6fd2e&mode=Design
+
+Youtube link of the video:
+https://youtu.be/tg7n_xd-uHk?si=33zL43pWL44_2hNS
+
+Information about the startergy used, assumptions made and description about the statechart; inputs used for simulation and outputs obtained in a tabular form
+https://drive.google.com/file/d/1ly3p-jnKyLeZOe7ebZ7OZSxWuIYP7oGy/view?usp=sharing
+
+Contribution of each team member:
+Equal contribution
