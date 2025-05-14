@@ -1,3 +1,4 @@
+
 Link of the statechart (from Stately):
 https://stately.ai/registry/editor/1b97b65e-bdc7-49dc-ac91-fb8a0751e572?machineId=456dabb9-3111-4174-aeba-f48255c6fd2e&mode=Design
 
